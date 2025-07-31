@@ -51,6 +51,7 @@ Develops reports, dashboards, and data analysis tools to help organizations make
 📌 Use Cases:
 
 Relational: Banking systems, ERP, Inventory
+
 Non-Relational: Social media feeds, IoT data, real-time analytics
 
 
@@ -65,13 +66,15 @@ Non-Relational: Social media feeds, IoT data, real-time analytics
 📌 Examples:
 
 Centralized: MS Access, early Oracle setups
+
 Distributed: Apache Cassandra, Google Spanner
+
 Cloud: Amazon RDS, Google Cloud Firestore, MongoDB Atlas
 
 ## Task 5:  Types of Databases:
 
-**📦 What is Cloud Storage and How Does It Support Databases?
-Cloud Storage refers to storing data on remote servers accessed via the internet, rather than local hardware.**
+**📦 What is Cloud Storage and How Does It Support Databases?**
+Cloud Storage refers to storing data on remote servers accessed via the internet, rather than local hardware.
 
 It provides scalable, durable, and accessible storage.
 Cloud storage supports databases by:
