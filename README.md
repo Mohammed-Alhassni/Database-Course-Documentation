@@ -107,12 +107,16 @@ Google Cloud Spanner – globally distributed SQL database with high consistency
 
 Internet Dependency
 Requires stable internet connectivity for access.
+
 Latency Issues
 Data transfer times may be slower than local access in high-speed apps.
+
 Vendor Lock-In
 Migrating between cloud platforms can be complex and costly.
+
 Security and Compliance Risks
 Sensitive data in the cloud may face regulatory or legal concerns.
+
 Cost Overruns
 Uncontrolled usage or poor configuration can lead to high costs.
 
